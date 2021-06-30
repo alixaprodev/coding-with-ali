@@ -20,7 +20,7 @@ I'm Hazrat Ali, a software Developer from Peshawar, Pakistan. I love learning ne
 
 ### My work 🔭
 
-- I work as a Tech Blogger for [AlixaProDev](https://www.alixaprodev.com/)
+- I work as a Tech Blogger at [AlixaProDev](https://www.alixaprodev.com/)
 - I am a contributor and maintainer of 
 
     1.[Android Code Snippets](https://github.com/hazratali-bit/30-lines-code.android) 
