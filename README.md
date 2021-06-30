@@ -21,7 +21,11 @@ I'm Hazrat Ali, a software Developer from Peshawar, Pakistan. I love learning ne
 ### My work 🔭
 
 - I work as a Tech Blogger for [AlixaProDev](https://www.alixaprodev.com/)
-- I am a contributor and maintainer of [Android Code Snippets](https://github.com/hazratali-bit/Android-code-snippets) 
+- I am a contributor and maintainer of 
+-   1.[Android Code Snippets](https://github.com/hazratali-bit/30-lines-code.android) 
+-   2.[Python Code Snippets](https://github.com/hazratali-bit/30-lines-code.python) 
+-   3.[Java Code Snippets](https://github.com/hazratali-bit/30-lines-code.java) 
+-   4.[C++ Code Snippets](https://github.com/hazratali-bit/30-lines-code.cpp) 
 - I work on the occasional open source project - [view repositories](https://github.com/hazratali-bit?tab=repositories)
 
 
