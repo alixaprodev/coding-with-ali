@@ -25,7 +25,7 @@ I'm Hazrat Ali, a software Developer from Peshawar, Pakistan. I love learning ne
 
     1.[Android Code Snippets](https://github.com/hazratali-bit/30-lines-code.android) 
 
-    2.[Python Code Snippets](https://github.com/hazratali-bit/30-lines-code.python) 
+    2.[Python Code Snippets](https://github.com/hazratali-bit/30-lines-code.py) 
 
     3.[Java Code Snippets](https://github.com/hazratali-bit/30-lines-code.java) 
 
