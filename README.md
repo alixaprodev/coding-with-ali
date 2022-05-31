@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm Hazrat Ali, a software Developer from Peshawar, Pakistan. I love learning new things, especially when they involve programming, data science and visualizations. My day job involves working with Java and Android, while in my spare time I play around with Web Technologies, Python, JavaScript and React.
+Meet Ali, an astute software developer with extensive four years of experience in developing full-stack web applications and RESTful APIs. I can build backend services for PostgreSQL, MySQL, SQLite, MariaDB, MongoDB, and Firebase. I can work with APIs for dynamic websites, mobile, or desktop applications, I can develop it in Flask, Django, and FastAPIs.
+
+Reach me out for a quick Interview😍.
 
 ### My work 🔭
 
