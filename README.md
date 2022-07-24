@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Meet Ali, an astute software developer with extensive four years of experience in developing full-stack web applications and RESTful APIs. I can build backend services for PostgreSQL, MySQL, SQLite, MariaDB, MongoDB, and Firebase. I can work with APIs for dynamic websites, mobile, or desktop applications, I can develop it in Flask, Django, and FastAPIs.
 
-Reach me out for a quick Interview😍.
+I respond to every main I receive😍.
 
 ### My work 🔭
 
